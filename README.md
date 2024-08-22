@@ -16,7 +16,13 @@ Cover My Shift is a platform designed to streamline scheduling for managers and 
 - **Tools:** Postman (for API testing), E/RD diagrams for database modeling
 
 ## Screenshots
-![Cover My Shift Dashboard](./Downloads/my_shifts_employee_view.png)
+![Cover My Shift - My Shifts](./screenshots/my_shifts_employee_view.png)
+![Cover My Shift - Pick up Shifts](./screenshots/pick_up_shifts_employee_view.png)
+![Cover My Shift - Coverage](./screenshots/coverage_manager_view.png)
+![Cover My Shift - Add Shifts](./screenshots/add_shifts_manager_view.png)
+![Cover My Shift - Pending Requests](./screenshots/pending_requests_manager_view.png)
+![Cover My Shift - All Shifts](./screenshots/all_shifts_manager_view.png)
+
 
 
 ## Getting Started
