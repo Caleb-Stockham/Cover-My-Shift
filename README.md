@@ -16,7 +16,8 @@ Cover My Shift is a platform designed to streamline scheduling for managers and 
 - **Tools:** Postman (for API testing), E/RD diagrams for database modeling
 
 ## Screenshots
-![Cover My Shift Dashboard](./path_to_your_image/Screenshot_2024-08-16_133613.png)
+![Cover My Shift Dashboard](./Downloads/my_shifts_employee_view.png)
+
 
 ## Getting Started
 
@@ -29,7 +30,7 @@ Cover My Shift is a platform designed to streamline scheduling for managers and 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_https_link>
+   git clone https://github.com/Caleb-Stockham/Cover-My-Shift.git
 
 2. **Set up the Database:**
 
